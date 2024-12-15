@@ -1,2 +1,2 @@
-# coding_test
-This is Hyeokmin's Coding Test preparation test
+Coding Test Preparation Repository
+Record Everyday
