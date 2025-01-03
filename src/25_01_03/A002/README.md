@@ -1,8 +1,10 @@
+https://leetcode.com/problems/pascals-triangle/description/
+
 Given an integer numRows, return the first numRows of Pascal's triangle.
 
 In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 
-
+![Pascal's Triangle](https://github.com/hyeokkiyaa/coding_test/blob/main/src/25_01_03/A002/Image.gif?raw=true)
  
 
 Example 1:
